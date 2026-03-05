@@ -6,7 +6,7 @@
 
 An end-to-end data analytics project exploring 1 year of historical National Stock Exchange (NSE) data. This project demonstrates data modeling, ETL (Extract, Transform, Load) processes, and interactive visualization to uncover market trends and price volatility.
 
-## 🌟 Project Overview
+##  Project Overview
 This project analyzes stock performance over a 12-month period to help investors visualize price movements and volume trends. By cleaning raw exchange data and building a robust data model, the dashboard provides a high-level view of 52-week highs/lows, daily opening/closing gaps, and monthly volume distribution.
 
 ### Key Questions Answered:
@@ -16,7 +16,7 @@ This project analyzes stock performance over a 12-month period to help investors
 
 ---
 
-## 🛠 Tech Stack & Workflow
+##  Tech Stack & Workflow
 * **Data Source:** Raw historical stock data (.csv) from the [NSE Website](https://www.nseindia.com/).
 * **Data Cleaning:** **Microsoft Excel** used for initial formatting, handling missing values, and data type standardization.
 * **Data Modeling:** **Power BI (Power Query)** used to create a star schema, define date tables, and establish relationships.
@@ -24,7 +24,7 @@ This project analyzes stock performance over a 12-month period to help investors
 
 ---
 
-## 📊 Dashboard Highlights
+## Dashboard Highlights
 The interactive dashboard includes several critical views for financial analysis:
 
 1. **Price Performance KPIs:** High-level cards showing Average 52W High ($2.15K), Average 52W Low ($1.53K), and Total Volume ($349M).
@@ -36,7 +36,7 @@ The interactive dashboard includes several critical views for financial analysis
 
 ---
 
-## 📈 Key Insights Derived
+##  Key Insights Derived
 * **Seasonal Volume:** Trading volume peaked in **March** and **June**, indicating periods of high market activity or institutional rebalancing.
 * **Stability Trends:** The gap between 52W High and Low remained relatively consistent across all four quarters, suggesting a period of steady market growth rather than extreme volatility.
 * **Daily Patterns:** Price movements showed significant fluctuations around the mid-month period (Days 10-20), as seen in the multi-layered area charts.
@@ -50,7 +50,7 @@ The interactive dashboard includes several critical views for financial analysis
 
 ---
 
-## 👤 Author
+##  Author
 **Aniket Kalore** *Data Analyst*
 
 📧 [kaloreaniket21@gmail.com](mailto:kaloreaniket21@gmail.com)  
