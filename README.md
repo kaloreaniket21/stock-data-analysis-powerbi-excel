@@ -9,6 +9,7 @@ An end-to-end data analytics project exploring 1 year of historical National Sto
 ##  Project Overview
 This project analyzes stock performance over a 12-month period to help investors visualize price movements and volume trends. By cleaning raw exchange data and building a robust data model, the dashboard provides a high-level view of 52-week highs/lows, daily opening/closing gaps, and monthly volume distribution.
 
+
 ### Key Questions Answered:
 * What is the average 52-week price range for the selected period?
 * Which months saw the highest trading volume and liquidity?
